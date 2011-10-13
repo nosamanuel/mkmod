@@ -1,7 +1,7 @@
 import os
 import sys
 
-__version__ = '0.01'
+__version__ = '0.1'
 
 INIT_PY = '__init__.py'
 

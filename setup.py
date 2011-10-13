@@ -7,7 +7,7 @@ setup(name="mkmod",
       description="Makes Python modules.",
       long_description="You can stop touching __init__.py now.",
       classifiers=[
-        'Development Status :: 3 - Alpha',
+        'Development Status :: 4 - Beta',
         'Intended Audience :: Developers',
         'Topic :: Software Development :: Code Generators',
         'Programming Language :: Python :: 2.5',
